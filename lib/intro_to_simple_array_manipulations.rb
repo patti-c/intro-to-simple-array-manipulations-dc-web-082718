@@ -1,5 +1,5 @@
 def using_push(array, string)
-  
+  array.push(string)
 end 
 
 def using_unshift(array, string)
@@ -39,3 +39,6 @@ def using_flatten(array)
 end 
 
 def using_delete(array, string)
+  
+end 
+
